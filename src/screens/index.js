@@ -1,0 +1,10 @@
+import Welcome from './Welcome';
+import MainMenu from './MainMenu';
+import Dapus from './Dapus';
+import Rpp from './Rpp';
+import Correct from './Correct';
+import InCorrect from './InCorrect';
+export * from './modul-ajar';
+export * from './fakta-menarik';
+export * from './lkpd';
+export {Welcome, MainMenu, Dapus, Rpp, Correct, InCorrect};

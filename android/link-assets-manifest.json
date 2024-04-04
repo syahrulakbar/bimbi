@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Blueberry.ttf",
+      "sha1": "40811f80f08be19928bb0a24d45f647be99431d9"
+    },
+    {
+      "path": "assets/fonts/Handineat.otf",
+      "sha1": "7047b4671555f6dc8d4253b239f81a7a3e06d73b"
+    }
+  ]
+}
